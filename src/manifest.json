@@ -1,6 +1,6 @@
 {
-	"name": "",
-	"appid": "",
+	"name": "智汇导诊",
+	"appid": "wxfa5023c829c487a5",
 	"description": "",
 	"versionName": "1.0.0",
 	"versionCode": "100",
@@ -54,7 +54,7 @@
 
 	},
 	"mp-weixin": { /* 微信小程序特有相关 */
-		"appid": "",
+		"appid": "wxfa5023c829c487a5",
 		"setting": {
 			"urlCheck": false
 		},
