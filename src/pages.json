@@ -17,6 +17,12 @@
 			"style": {
 				// "navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path": "pages/post_art/post_art",
+			"style": {
+				"navigationBarTitleText": "贴文"
+			}
 		}
 	],
 	"tabBar" :{
